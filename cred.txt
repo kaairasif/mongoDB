@@ -1,0 +1,6 @@
+username : asifcse22
+password: mFjcOZF8WhzOD86E
+
+==============================================================
+connection string:
+mongodb+srv://asifcse22:mFjcOZF8WhzOD86E@cluster0.h7isene.mongodb.net/
